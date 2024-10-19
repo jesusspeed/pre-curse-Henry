@@ -1,5 +1,11 @@
-img{
-    height: 350px;
-    margin: 30px;
-    width:  900px;
-}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+  }
+  img{
+    height: 300px;
+    max-width: px;
+    border: #333;
+  }
